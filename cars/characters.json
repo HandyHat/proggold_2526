@@ -14,5 +14,10 @@
   { "name": "Fillmore", "imageURL": "Fillmore.webp", "films": [1, 2, 3] },
   { "name": "Sarge", "imageURL": "Sarge.webp", "films": [1, 2, 3] },
   { "name": "Red", "imageURL": "Red.webp", "films": [1, 2, 3] },
-  { "name": "Lizzie", "imageURL": "Lizzie.webp", "films": [1, 2, 3] }
+  { "name": "Lizzie", "imageURL": "Lizzie.webp", "films": [1, 2, 3] },
+  { "name": "Mack", "imageURL": "Mack.webp", "films": [1, 2, 3] },
+  { "name": "Jerry Recycled Batteries", "imageURL": "Jerry_recycled_batteries.webp", "films": [1] },
+  { "name": "Mia & Tia", "imageURL": "Mia_Tia.webp", "films": [1, 2] },
+  { "name": "Darrell Cartrip", "imageURL": "Darrell_cartrip.webp", "films": [1, 2, 3] },
+  { "name": "Bob Cutlass", "imageURL": "Bob_Cutlass.webp", "films": [1, 3] }
 ]
